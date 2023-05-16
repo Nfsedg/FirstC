@@ -1,0 +1,15 @@
+/Users/edgarprincipal/Projects/test/test/bin/Debug/net6.0/test
+/Users/edgarprincipal/Projects/test/test/bin/Debug/net6.0/test.deps.json
+/Users/edgarprincipal/Projects/test/test/bin/Debug/net6.0/test.runtimeconfig.json
+/Users/edgarprincipal/Projects/test/test/bin/Debug/net6.0/test.dll
+/Users/edgarprincipal/Projects/test/test/bin/Debug/net6.0/test.pdb
+/Users/edgarprincipal/Projects/test/test/obj/Debug/net6.0/test.csproj.AssemblyReference.cache
+/Users/edgarprincipal/Projects/test/test/obj/Debug/net6.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edgarprincipal/Projects/test/test/obj/Debug/net6.0/test.AssemblyInfoInputs.cache
+/Users/edgarprincipal/Projects/test/test/obj/Debug/net6.0/test.AssemblyInfo.cs
+/Users/edgarprincipal/Projects/test/test/obj/Debug/net6.0/test.csproj.CoreCompileInputs.cache
+/Users/edgarprincipal/Projects/test/test/obj/Debug/net6.0/test.dll
+/Users/edgarprincipal/Projects/test/test/obj/Debug/net6.0/refint/test.dll
+/Users/edgarprincipal/Projects/test/test/obj/Debug/net6.0/test.pdb
+/Users/edgarprincipal/Projects/test/test/obj/Debug/net6.0/test.genruntimeconfig.cache
+/Users/edgarprincipal/Projects/test/test/obj/Debug/net6.0/ref/test.dll
